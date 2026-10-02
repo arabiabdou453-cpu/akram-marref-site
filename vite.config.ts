@@ -31,8 +31,29 @@ function avifContentTypePlugin(): Plugin {
   };
 }
 
+const worksDir = path.resolve(__dirname, 'works');
+const workFiles = fs.existsSync(worksDir)
+  ? fs.readdirSync(worksDir).filter((f) => f.endsWith('.html'))
+  : [];
+
+const multiPageInput: Record<string, string> = {
+  main: path.resolve(__dirname, 'index.html'),
+  works: path.resolve(__dirname, 'works.html'),
+  notfound: path.resolve(__dirname, '404.html')
+};
+
+for (const file of workFiles) {
+  const name = 'works/' + file.replace('.html', '');
+  multiPageInput[name] = path.resolve(worksDir, file);
+}
+
 export default defineConfig({
   plugins: [react(), avifContentTypePlugin()],
+  build: {
+    rollupOptions: {
+      input: multiPageInput
+    }
+  },
   server: {
     host: '0.0.0.0',
     port: 3000,
