@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+dist-ssr/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel/
+
+# Editor & System
+.DS_Store
+Thumbs.db
+*.log
+
+.vercel
+.env*
