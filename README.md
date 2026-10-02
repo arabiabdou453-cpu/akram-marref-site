@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://akram-marref-site.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-akram--marref--site.vercel.app-00dfa2?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
   <a href="https://vite.dev"><img src="https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </p>
 
 ---
