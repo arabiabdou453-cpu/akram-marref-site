@@ -1,7 +1,8 @@
 /projects/*  /works/:splat  301
+/works/formura-labs-full-branding  /works/al-rayyan-castle  301
+/works/al-rayyan-castle  /works/al-rayyan-castle.html  200
 /works/perfumes-media-posts  /works/perfumes-media-posts.html  200
 /works/saffron-brew  /works/saffron-brew.html  200
-/works/formura-labs-full-branding  /works/formura-labs-full-branding.html  200
 /works/logofolio  /works/logofolio.html  200
 /works/timeplus  /works/timeplus.html  200
 /works/carossa  /works/carossa.html  200
