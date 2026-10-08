@@ -890,25 +890,104 @@ setInterval(function () { if (location.pathname !== lastPath) { lastPath = locat
     transform: none !important;
     gap: 20px !important;
   }
-  .framer-18xcv1t {
+
+  /* Hide inner background grid lines (25%, 50%, 75%) so no lines ever cut through text */
+  .framer-a7nn1r .framer-lnju52,
+  .framer-a7nn1r .framer-1iobxc2,
+  .framer-a7nn1r .framer-1ubbnwp {
+    opacity: 0 !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    pointer-events: none !important;
+  }
+
+  /* Remove empty spacer rectangle on left (الذي لا يوجد فيه أي كتابة) */
+  .framer-1mp1j2 .framer-9wni29,
+  .framer-7J2Cd .framer-1mp1j2 .framer-9wni29 {
+    display: none !important;
+  }
+  .framer-1mp1j2 .framer-1ljkppb,
+  .framer-7J2Cd .framer-1mp1j2 .framer-1ljkppb {
+    display: none !important;
+  }
+
+  /* Full container layout - no empty void on left */
+  .framer-1mp1j2,
+  .framer-7J2Cd .framer-1mp1j2 {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 40px !important;
+    width: 100% !important;
+    max-width: 1400px !important;
+    margin: 0 auto !important;
+    padding: 0 40px !important;
+  }
+
+  .framer-672shq,
+  .framer-7J2Cd .framer-672shq {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    gap: 24px !important;
+    grid-column: auto !important;
+    grid-template-columns: none !important;
+  }
+
+  .framer-lyocn3,
+  .framer-7J2Cd .framer-lyocn3 {
+    width: auto !important;
+    padding: 0 !important;
+  }
+
+  .framer-1yo2ige,
+  .framer-7J2Cd .framer-1yo2ige {
+    width: 100% !important;
+    max-width: 100% !important;
+    gap: 30px !important;
+  }
+
+  .framer-18xcv1t,
+  .framer-7J2Cd .framer-18xcv1t {
     width: 100% !important;
     max-width: 100% !important;
     padding: 0 !important;
   }
-  .framer-1oupkq2 {
+
+  .framer-1oupkq2,
+  .framer-7J2Cd .framer-1oupkq2 {
     width: 100% !important;
     max-width: 100% !important;
     padding: 0 !important;
   }
+
   .framer-1oupkq2 h5,
   .framer-1oupkq2 .framer-text {
-    font-size: clamp(14px, 1.05vw, 16px) !important;
-    line-height: 1.32 !important;
+    font-size: clamp(14px, 1.1vw, 16px) !important;
+    line-height: 1.45 !important;
     letter-spacing: -0.01em !important;
   }
+
+  .framer-ewl246,
+  .framer-7J2Cd .framer-ewl246 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .framer-ycym2p,
+  .framer-7J2Cd .framer-ycym2p {
+    width: 100% !important;
+    grid-column: auto !important;
+  }
+
   .akram-gallery > .akram-h { grid-column: 1 / -1; }
   .akram-gallery .framer-1q1633g { height: auto !important; }
   @media (max-width: 809.98px) {
+    .framer-1mp1j2,
+    .framer-7J2Cd .framer-1mp1j2 {
+      padding: 0 10px !important;
+      gap: 20px !important;
+    }
     .framer-7J2Cd .framer-ycym2p.akram-gallery {
       grid-template-columns: repeat(2, minmax(50px, 1fr));
     }
