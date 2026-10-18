@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const v = fs.readFileSync('dist/works/viloria-perfumes.html', 'utf-8');
+const v = fs.readFileSync('works/viloria-perfumes.html', 'utf-8');
 const checks = [
   ['Title', v.includes('<title>VILORIA PERFUMES - Akram Marref</title>')],
   ['Hero h1', v.includes('>VILORIA PERFUMES</h1>')],
@@ -13,7 +13,7 @@ const checks = [
   ['Industry', v.includes('>COSMETICS &amp; BEAUTY</p>')],
   ['Services', v.includes('>FULL BRAND IDENTITY / PRODUCT DESIGN</p>')],
   ['Live Behance', v.includes('https://www.behance.net/gallery/256986051/VILORIA-PERFUMES-Full-Brand-Identity')],
-  ['Next Project ARC', v.includes('href="./al-rayyan-castle"')],
+  ['Next Project Saffron', v.includes('href="./saffron-brew"')],
   ['Gallery 2.gif', v.includes('/media/works/viloria-perfumes/gallery/2.gif')],
   ['Gallery 7.mp4', v.includes('/media/works/viloria-perfumes/gallery/7.mp4')],
   ['Gallery 38.webp', v.includes('/media/works/viloria-perfumes/gallery/38.webp')]
@@ -26,7 +26,7 @@ for (const [name, passed] of checks) {
   if (!passed) allPassed = false;
 }
 
-const idx = fs.readFileSync('dist/index.html', 'utf-8');
+const idx = fs.readFileSync('index.html', 'utf-8');
 const idxChecks = [
   ['Index Card #1 Link', idx.includes('href="./works/viloria-perfumes"')],
   ['Index Card #1 Title', idx.includes('>VILORIA PERFUMES</h3>')],
@@ -41,7 +41,7 @@ for (const [name, passed] of idxChecks) {
   if (!passed) allPassed = false;
 }
 
-const wrk = fs.readFileSync('dist/works.html', 'utf-8');
+const wrk = fs.readFileSync('works.html', 'utf-8');
 const wrkChecks = [
   ['Works Card #1 Link', wrk.includes('href="./works/viloria-perfumes"')],
   ['Works Card #1 Title', wrk.includes('>VILORIA PERFUMES</h3>')],
