@@ -1,11 +1,11 @@
 [
   {
-    "id": 7,
-    "type": "video",
-    "width": 1920,
-    "height": 1080,
+    "id": 1,
+    "type": "image",
+    "width": 2560,
+    "height": 1440,
     "isPortrait": false,
-    "file": "7.mp4"
+    "file": "1.webp"
   },
   {
     "id": 2,
