@@ -1,5 +1,13 @@
 [
   {
+    "id": 7,
+    "type": "video",
+    "width": 1920,
+    "height": 1080,
+    "isPortrait": false,
+    "file": "7.mp4"
+  },
+  {
     "id": 2,
     "type": "gif",
     "width": 1920,
@@ -38,14 +46,6 @@
     "height": 2160,
     "isPortrait": false,
     "file": "6.webp"
-  },
-  {
-    "id": 7,
-    "type": "video",
-    "width": 1280,
-    "height": 720,
-    "isPortrait": false,
-    "file": "7.mp4"
   },
   {
     "id": 8,
