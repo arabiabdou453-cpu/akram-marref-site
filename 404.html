@@ -885,6 +885,25 @@ setInterval(function () { if (location.pathname !== lastPath) { lastPath = locat
 <style id="custom-watermark-remover">#__framer-badge-container, [data-framer-badge], a[href*="framer.com"] { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; width: 0 !important; height: 0 !important; }</style>
 
 
+<script id="akram-full-nav">
+/* Load other pages with a full request instead of Framer's client-side router:
+   the router renders from bundled CMS data that still holds old projects. */
+(function () {
+  function clean(p) { return p.replace(/\/+$/, "") || "/"; }
+  addEventListener("click", function (e) {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+    if (!a || a.hasAttribute("download")) return;
+    if (a.target && a.target !== "_self") return;
+    var url = new URL(a.getAttribute("href"), location.href);
+    if (url.origin !== location.origin) return;
+    if (clean(url.pathname) === clean(location.pathname)) return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    location.assign(url.href);
+  }, true);
+})();
+</script>
 </head>
 <body>
 	

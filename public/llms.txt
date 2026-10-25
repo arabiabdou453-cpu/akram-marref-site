@@ -19,14 +19,13 @@
 
 ## Projects
 
-- [Perfumes | Social Media Posts](https://akram-marref.netlify.app/works/perfumes-media-posts): A perfume poster series built like a vibe library. Client: Reef Perfumes / Osma Perfumes. Services: Social Media Posts. Industry: Fragrance.
+- [VILORIA PERFUMES | Full Brand Identity](https://akram-marref.netlify.app/works/viloria-perfumes): Born in Red, Crowned with Gold. Client: VILORIA PERFUMES. Services: Full Brand Identity / Product Design. Industry: Cosmetics & Beauty.
 - [SAFFRON Brew | Full Brand Identity](https://akram-marref.netlify.app/works/saffron-brew): Brewed Beyond Ordinary. Client: SAFFRON Brew. Services: Full Brand Identity. Industry: Food & Beverages.
-- [AL RAYYAN CASTLE | Full Branding](https://akram-marref.netlify.app/works/al-rayyan-castle): Architectural Precision At Every Stage. Client: AL RAYYAN CASTLE. Services: Full Branding. Industry: Supplements.
+- [AL RAYYAN CASTLE | Full Brand Identity](https://akram-marref.netlify.app/works/al-rayyan-castle): Architectural Precision At Every Stage. Client: AL RAYYAN CASTLE. Services: Full Brand Identity / Website Design. Industry: Trading & Construction.
 - [LOGOFOLIO | Logos & Marks Collection | Vol.1](https://akram-marref.netlify.app/works/logofolio): A curated set of logos and brand marks — Vol.1. Client: LOGOFOLIO. Services: Logo Design. Industry: Various Brands.
 - [TimePlus | Logo & Visual Identity](https://akram-marref.netlify.app/works/timeplus): A streamlined identity built for a modern HR and payroll system. Client: TimePlus. Services: Logo & Visual Identity. Industry: HR & Payroll.
-- [Carossa Startup | Logo & Brand Identity Design](https://akram-marref.netlify.app/works/carossa): A fresh visual direction for Algeria’s emerging car marketplace. Client: Carossa Startup. Services: Logo & Branding, UI/UX Design. Industry: Car Marketplace.
 - [SunTwin Analytics | Logo & Brand Identity Design](https://akram-marref.netlify.app/works/suntwin): A clean visual system for a solar tech startup. Client: SunTwin Analytics. Services: Logo & Branding. Industry: Solar Tech.
-- [Vectorial Agency Re-Branding](https://akram-marref.netlify.app/works/vectorial-studio): A bold transformation for a global creative studio. Client: Vectorial Agency. Services: Re-Branding. Industry: Creative Agency.
+- [CAROSSA | Visual Identity | UI/UX Design](https://akram-marref.netlify.app/works/carossa): Seal the Deal, Drive your Dream. Client: CAROSSA. Services: Visual Identity / Mobile App Design. Industry: Automotive / Technology & Mobility.
 - [ZR Express | Mobile App Case Study](https://akram-marref.netlify.app/works/zr-express): A complete brand and UX overhaul for a logistics company. Client: ZR Express. Services: UI/UX Design. Industry: Logistics.
 - [Bulakasfalo Restaurant | Logo & Branding Design](https://akram-marref.netlify.app/works/bulakasfalo-restaurant-logo-branding-design): A playful brand system tailored for a street-food restaurant. Client: Bulakasfalo Restaurant. Services: Logo & Visual Identity. Industry: Street Food.
 - [Precious Kitchen | Logo & Branding Design](https://akram-marref.netlify.app/works/precious-kitchen-logo-branding-design): A warm, home-style identity reflecting traditional flavors. Client: Precious Kitchen. Services: Logo & Visual Identity. Industry: Restaurant.

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "1.webp"
+  },
+  {
+    "id": 2,
+    "type": "gif",
+    "width": 5833,
+    "height": 3750,
+    "isPortrait": false,
+    "file": "2.gif"
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "width": 1080,
+    "height": 1350,
+    "isPortrait": true,
+    "file": "3.webp"
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "width": 2160,
+    "height": 2700,
+    "isPortrait": true,
+    "file": "4.webp"
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "6.webp"
+  },
+  {
+    "id": 7,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "7.webp"
+  },
+  {
+    "id": 8,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "8.webp"
+  },
+  {
+    "id": 9,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "9.webp"
+  },
+  {
+    "id": 10,
+    "type": "image",
+    "width": 2800,
+    "height": 2000,
+    "isPortrait": false,
+    "file": "10.webp"
+  },
+  {
+    "id": 11,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "11.webp"
+  },
+  {
+    "id": 12,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "12.webp"
+  },
+  {
+    "id": 13,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "13.webp"
+  },
+  {
+    "id": 14,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "14.webp"
+  },
+  {
+    "id": 15,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "15.webp"
+  },
+  {
+    "id": 16,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "16.webp"
+  },
+  {
+    "id": 17,
+    "type": "image",
+    "width": 3840,
+    "height": 2469,
+    "isPortrait": false,
+    "file": "17.webp"
+  },
+  {
+    "id": 18,
+    "type": "image",
+    "width": 3840,
+    "height": 2160,
+    "isPortrait": false,
+    "file": "18.webp"
+  },
+  {
+    "id": 19,
+    "type": "image",
+    "width": 2800,
+    "height": 2000,
+    "isPortrait": false,
+    "file": "19.webp"
+  }
+]

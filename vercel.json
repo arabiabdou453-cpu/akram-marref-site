@@ -13,6 +13,11 @@
       "source": "/works/formura-labs-full-branding",
       "destination": "/works/al-rayyan-castle",
       "permanent": true
+    },
+    {
+      "source": "/works/perfumes-media-posts",
+      "destination": "/works/viloria-perfumes",
+      "permanent": true
     }
   ]
 }
