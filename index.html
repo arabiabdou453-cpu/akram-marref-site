@@ -930,8 +930,11 @@ setInterval(function () { if (location.pathname !== lastPath) { lastPath = locat
 }
 /* Results stats: close the boxes instead (line between "5+" and "3", full row line) */
 @media (min-width: 1200px) {
-  .framer-s1teyg-container > [data-framer-name="Desktop"] { --border-right-width: 1px !important; }
-  .framer-1epsyj0-container > [data-framer-name="Desktop"] { --border-left-width: 1px !important; --border-top-width: 1px !important; }
+  .framer-1epsyj0-container > [data-framer-name="Desktop"] {
+    --border-top-width: 1px !important;
+    /* left side of the "3" box, drawn as a shadow so it shows at any browser zoom */
+    box-shadow: inset 1px 0 0 0 var(--token-9e92eafd-428a-4d51-91e9-bb5924bff77e, #e4eef026) !important;
+  }
   .framer-1g3zq8m-container > [data-framer-name="Desktop"] { --border-top-width: 1px !important; }
   /* same height for "50+" and "3" so their bottom lines align */
   .framer-1epsyj0-container, .framer-1g3zq8m-container { align-self: stretch !important; height: auto !important; }
