@@ -10,13 +10,63 @@
       "permanent": true
     },
     {
-      "source": "/works/formura-labs-full-branding",
-      "destination": "/works/al-rayyan-castle",
+      "source": "/works/perfumes-media-posts",
+      "destination": "/works/viloria-perfumes",
       "permanent": true
     },
     {
-      "source": "/works/perfumes-media-posts",
-      "destination": "/works/viloria-perfumes",
+      "source": "/works/carossa",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/zr-express",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/bulakasfalo-restaurant-logo-branding-design",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/zr-express-re-branding",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/lamaat-fun-logo-brand-identity-design",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/precious-kitchen-logo-branding-design",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/soundcloud-website-ui-ux-re-design",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/carossa-startup-mobile-app-ui-ux-design",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/vectorial-studio",
+      "destination": "/works",
+      "permanent": true
+    },
+    {
+      "source": "/works/logofolio",
+      "destination": "/works/avure-skincare",
+      "permanent": true
+    },
+    {
+      "source": "/works/formura-labs-full-branding",
+      "destination": "/works/al-rayyan-castle",
       "permanent": true
     }
   ]
