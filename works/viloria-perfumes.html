@@ -992,6 +992,12 @@ window.__VILORIA_GALLERY_INNER = "<div class=\"framer-1hve4up akram-h viloria-vi
 .framer-1ubbnwp, .framer-i2cknk, .framer-1vzrceh, .framer-t2w4je, .framer-181ersb, .framer-15dheub {
   opacity: 0 !important;
 }
+/* page-transition overlay: its three 1px lines (25% / 50% / 75% of the screen) stay on top of
+   the page after the transition and show across images */
+div[style*="z-index: 9999"][style*="pointer-events: none"] > div[style*="position: absolute"][style*="width: 1px"],
+div[style*="z-index:9999"][style*="pointer-events:none"] > div[style*="position:absolute"][style*="width:1px"] {
+  display: none !important;
+}
 </style>
 </head>
 <body>
