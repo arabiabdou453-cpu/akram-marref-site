@@ -5,6 +5,11 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/works/works/:path*",
+      "destination": "/works/:path*",
+      "permanent": true
+    },
+    {
       "source": "/projects/:match*",
       "destination": "/works/:match*",
       "permanent": true
@@ -69,5 +74,6 @@
       "destination": "/works/al-rayyan-castle",
       "permanent": true
     }
-  ]
+  ],
+  "trailingSlash": false
 }
