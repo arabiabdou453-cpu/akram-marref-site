@@ -26,7 +26,6 @@
 - [LOGOFOLIO | Logos & Marks Collection | Vol.1](https://akram-marref-site.vercel.app/works/logofolio): A curated set of logos and brand marks — Vol.1. Client: LOGOFOLIO. Services: Logo Design. Industry: Various Brands.
 - [SUNTWIN ANALYTICS | LOGO & VISUAL IDENTITY](https://akram-marref-site.vercel.app/works/suntwin): Smarter Solar, Brighter Future. Client: SUNTWIN ANALYTICS. Services: Logo & Visual Identity. Industry: Renewable Energy & CleanTech.
 - [CAROSSA | Visual Identity | UI/UX Design](https://akram-marref-site.vercel.app/works/carossa): Seal the Deal, Drive your Dream. Client: CAROSSA. Services: Visual Identity / Mobile App Design. Industry: Automotive / Technology & Mobility.
-- [TimePlus | Logo & Visual Identity](https://akram-marref-site.vercel.app/works/timeplus): A streamlined identity built for a modern HR and payroll system. Client: TimePlus. Services: Logo & Visual Identity. Industry: HR & Payroll.
 
 ## Frequently Asked Questions
 

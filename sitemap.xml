@@ -54,10 +54,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://akram-marref-site.vercel.app/works/timeplus</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
 </urlset>
