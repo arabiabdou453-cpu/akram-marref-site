@@ -608,7 +608,7 @@ todo.push([d, v ? "width" : "height", frac ? (bpx(t) / D).toFixed(4) + "px" : ""
 for (i = 0; i < todo.length; i++) if (todo[i][0].style[todo[i][1]] !== todo[i][2]) todo[i][0].style[todo[i][1]] = todo[i][2];
 }
 function painters(cols) {
-var out = [], all = document.querySelectorAll("div, img, video, canvas, section, header, footer, main, nav, aside, figure, picture");
+var out = [], all = document.querySelectorAll("div, img, video, canvas, section, header, footer, main, nav, aside, figure, picture, a, button");
 for (var i = 0; i < all.length; i++) {
 var e = all[i], r = e.getBoundingClientRect(); if (!r.width || !r.height) continue;
 var hit = false; for (var k = 0; k < cols.length; k++) if (r.left < cols[k].e && r.right > cols[k].s) { hit = true; break; }
