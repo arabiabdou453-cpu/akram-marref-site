@@ -68,6 +68,11 @@
       "source": "/works/timeplus",
       "destination": "/works",
       "permanent": true
+    },
+    {
+      "source": "/works/logofolio",
+      "destination": "/works",
+      "permanent": true
     }
   ],
   "trailingSlash": false
