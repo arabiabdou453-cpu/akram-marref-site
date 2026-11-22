@@ -5,6 +5,17 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "akram-marref-site.vercel.app"
+        }
+      ],
+      "destination": "https://akram-marref.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
