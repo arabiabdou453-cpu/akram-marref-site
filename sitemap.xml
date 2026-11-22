@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://akram-marref-site.vercel.app/</loc>
+    <loc>https://akram-marref.vercel.app/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works</loc>
+    <loc>https://akram-marref.vercel.app/works</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/viloria-perfumes</loc>
+    <loc>https://akram-marref.vercel.app/works/viloria-perfumes</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/saffron-brew</loc>
+    <loc>https://akram-marref.vercel.app/works/saffron-brew</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/al-rayyan-castle</loc>
+    <loc>https://akram-marref.vercel.app/works/al-rayyan-castle</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/avure-skincare</loc>
+    <loc>https://akram-marref.vercel.app/works/avure-skincare</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/suntwin</loc>
+    <loc>https://akram-marref.vercel.app/works/suntwin</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://akram-marref-site.vercel.app/works/carossa</loc>
+    <loc>https://akram-marref.vercel.app/works/carossa</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>

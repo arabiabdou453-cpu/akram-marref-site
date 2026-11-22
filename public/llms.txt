@@ -2,7 +2,7 @@
 
 > Akram Wanisse Marref is an Art Director & Senior Graphic Designer with over 5 years of experience, collaborating with startups, agencies, and entrepreneurs across diverse industries to craft brand identities, digital interfaces, and marketing visuals.
 
-- Website: https://akram-marref-site.vercel.app/
+- Website: https://akram-marref.vercel.app/
 - Email: marrefakramwanisse@gmail.com
 - Phone / WhatsApp: +974 3306 8448
 - Based in: Doha, Qatar
@@ -19,12 +19,12 @@
 
 ## Projects
 
-- [VILORIA PERFUMES | Full Brand Identity](https://akram-marref-site.vercel.app/works/viloria-perfumes): Born in Red, Crowned with Gold. Client: VILORIA PERFUMES. Services: Full Brand Identity / Product Design. Industry: Cosmetics & Beauty.
-- [SAFFRON Brew | Full Brand Identity](https://akram-marref-site.vercel.app/works/saffron-brew): Brewed Beyond Ordinary. Client: SAFFRON Brew. Services: Full Brand Identity. Industry: Food & Beverages.
-- [AL RAYYAN CASTLE | Full Brand Identity](https://akram-marref-site.vercel.app/works/al-rayyan-castle): Architectural Precision At Every Stage. Client: AL RAYYAN CASTLE. Services: Full Brand Identity / Website Design. Industry: Trading & Construction.
-- [AVURE SKINCARE | Creative Direction & Brand Development](https://akram-marref-site.vercel.app/works/avure-skincare): Intelligent Skincare for Sensitive Skin. Client: AVURE SKINCARE. Services: Creative Direction, 3D Product Modeling, Packaging Design, Social Media Visuals, Print & Marketing Collateral. Industry: Skincare & Cosmetics.
-- [SUNTWIN ANALYTICS | LOGO & VISUAL IDENTITY](https://akram-marref-site.vercel.app/works/suntwin): Smarter Solar, Brighter Future. Client: SUNTWIN ANALYTICS. Services: Logo & Visual Identity. Industry: Renewable Energy & CleanTech.
-- [CAROSSA | Visual Identity | UI/UX Design](https://akram-marref-site.vercel.app/works/carossa): Seal the Deal, Drive your Dream. Client: CAROSSA. Services: Visual Identity / Mobile App Design. Industry: Automotive / Technology & Mobility.
+- [VILORIA PERFUMES | Full Brand Identity](https://akram-marref.vercel.app/works/viloria-perfumes): Born in Red, Crowned with Gold. Client: VILORIA PERFUMES. Services: Full Brand Identity / Product Design. Industry: Cosmetics & Beauty.
+- [SAFFRON Brew | Full Brand Identity](https://akram-marref.vercel.app/works/saffron-brew): Brewed Beyond Ordinary. Client: SAFFRON Brew. Services: Full Brand Identity. Industry: Food & Beverages.
+- [AL RAYYAN CASTLE | Full Brand Identity](https://akram-marref.vercel.app/works/al-rayyan-castle): Architectural Precision At Every Stage. Client: AL RAYYAN CASTLE. Services: Full Brand Identity / Website Design. Industry: Trading & Construction.
+- [AVURE SKINCARE | Creative Direction & Brand Development](https://akram-marref.vercel.app/works/avure-skincare): Intelligent Skincare for Sensitive Skin. Client: AVURE SKINCARE. Services: Creative Direction, 3D Product Modeling, Packaging Design, Social Media Visuals, Print & Marketing Collateral. Industry: Skincare & Cosmetics.
+- [SUNTWIN ANALYTICS | LOGO & VISUAL IDENTITY](https://akram-marref.vercel.app/works/suntwin): Smarter Solar, Brighter Future. Client: SUNTWIN ANALYTICS. Services: Logo & Visual Identity. Industry: Renewable Energy & CleanTech.
+- [CAROSSA | Visual Identity | UI/UX Design](https://akram-marref.vercel.app/works/carossa): Seal the Deal, Drive your Dream. Client: CAROSSA. Services: Visual Identity / Mobile App Design. Industry: Automotive / Technology & Mobility.
 
 ## Frequently Asked Questions
 
