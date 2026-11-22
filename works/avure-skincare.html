@@ -985,10 +985,6 @@ setInterval(function () { if (location.pathname !== lastPath) { lastPath = locat
 })();
 </script>
 <style id="grid-line-4">
-/* 4th grid column line: hidden because it runs through text and project cards */
-.framer-1ubbnwp, .framer-i2cknk, .framer-1vzrceh, .framer-t2w4je, .framer-181ersb, .framer-15dheub {
-  opacity: 0 !important;
-}
 /* page-transition overlay: its three 1px lines (25% / 50% / 75% of the screen) stay on top of
    the page after the transition and show across images */
 div[style*="z-index: 9999"][style*="pointer-events: none"] > div[style*="position: absolute"][style*="width: 1px"],
@@ -1001,24 +997,7 @@ div[style*="z-index:9999"][style*="pointer-events:none"] > div[style*="position:
 .framer-1qcnbz7 { flex: 3 1 0px !important; min-width: 0 !important; width: auto !important; white-space: normal !important; }
 .framer-1qcnbz7 p { white-space: normal !important; text-align: right !important; }
 </style>
-<link rel="preload" as="image" fetchpriority="high" href="/media/works/avure/hero.webp" imagesrcset="/media/works/avure/hero-1024.webp 1024w, /media/works/avure/hero-2048.webp 2048w, /media/works/avure/hero.webp 3840w" imagesizes="(min-width: 1200px) max(min(100vw - 80px, 1600px) - 40px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(min(100vw - 80px, 1600px) - 40px, 1px), (max-width: 809.98px) max(min(100vw - 60px, 1600px) - 20px, 1px)" data-akram-lcp><style id="card-title-fit">.framer-1m2m390>.framer-aji1e1{min-width:min-content}.framer-1m2m390>.framer-aji1e1 h3{word-break:normal}.framer-1m2m390>.framer-1ir4mra{flex-shrink:1;min-width:0}.framer-1m2m390>.framer-1ir4mra p{white-space:normal}</style><style id="explore-btn-frame">@media(min-width:1200px){.framer-b2w6vn a.framer-yCKzG[data-framer-name="Desktop"][data-border=true]:after{border-right-width:1px!important}}</style><script id="akram-line4">(function(){
-var SEL=".framer-1ubbnwp,.framer-i2cknk,.framer-1vzrceh,.framer-t2w4je,.framer-181ersb,.framer-15dheub",PAD=8,t=0;
-function blockers(x){var out=[],w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT),n,sy=window.pageYOffset;
-while((n=w.nextNode())){if(!n.nodeValue.trim())continue;var p=n.parentElement;if(!p||p.closest("style,script,noscript,svg"))continue;
-var rg=document.createRange();rg.selectNodeContents(n);var rs=rg.getClientRects();
-for(var i=0;i<rs.length;i++){var r=rs[i];if(r.width>0&&r.height>0&&r.left<=x+1&&r.right>=x-1)out.push([r.top+sy,r.bottom+sy])}}
-var ms=document.querySelectorAll("img,video,canvas");for(var j=0;j<ms.length;j++){var b=ms[j].getBoundingClientRect();if(b.width>8&&b.height>8&&b.left<=x&&b.right>=x)out.push([b.top+sy-PAD,b.bottom+sy+PAD])}return out}
-function run(){var sy=window.pageYOffset,ls=document.querySelectorAll(SEL);
-for(var k=0;k<ls.length;k++){var L=ls[k],r=L.getBoundingClientRect();if(!r.width||!r.height)continue;
-var x=r.left+r.width/2,top=r.top+sy,H=r.height,bs=blockers(x).map(function(b){return[Math.max(0,b[0]-top-PAD),Math.min(H,b[1]-top+PAD)]}).filter(function(b){return b[1]>0&&b[0]<H}).sort(function(a,b){return a[0]-b[0]});
-var m=[];bs.forEach(function(b){var l=m[m.length-1];if(l&&b[0]<=l[1])l[1]=Math.max(l[1],b[1]);else m.push(b.slice())});
-var q=[];m.forEach(function(b){var l=q[q.length-1];if(l&&b[0]-l[1]<160)l[1]=Math.max(l[1],b[1]);else q.push(b.slice())});m=q;if(m.length){if(m[0][0]<160)m[0][0]=0;if(H-m[m.length-1][1]<160)m[m.length-1][1]=H}var g="none";if(m.length){var s=["#000 0"],c=0;m.forEach(function(b){s.push("#000 "+b[0]+"px","transparent "+b[0]+"px","transparent "+b[1]+"px","#000 "+b[1]+"px");c=b[1]});g="linear-gradient(to bottom,"+s.join(",")+")"}
-L.style.setProperty("-webkit-mask-image",g);L.style.setProperty("mask-image",g);L.style.setProperty("opacity","1","important")}}
-function later(){clearTimeout(t);t=setTimeout(run,250)}
-function go(){run();[600,1500,3500].forEach(function(d){setTimeout(run,d)})}
-if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",go);else go();
-addEventListener("load",go);addEventListener("resize",later);addEventListener("scroll",later,{passive:true});
-if(document.fonts&&document.fonts.ready)document.fonts.ready.then(run)})();</script>
+<link rel="preload" as="image" fetchpriority="high" href="/media/works/avure/hero.webp" imagesrcset="/media/works/avure/hero-1024.webp 1024w, /media/works/avure/hero-2048.webp 2048w, /media/works/avure/hero.webp 3840w" imagesizes="(min-width: 1200px) max(min(100vw - 80px, 1600px) - 40px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(min(100vw - 80px, 1600px) - 40px, 1px), (max-width: 809.98px) max(min(100vw - 60px, 1600px) - 20px, 1px)" data-akram-lcp><style id="card-title-fit">.framer-1m2m390>.framer-aji1e1{min-width:min-content}.framer-1m2m390>.framer-aji1e1 h3{word-break:normal}.framer-1m2m390>.framer-1ir4mra{flex-shrink:1;min-width:0}.framer-1m2m390>.framer-1ir4mra p{white-space:normal}</style><style id="explore-btn-frame">@media(min-width:1200px){.framer-b2w6vn a.framer-yCKzG[data-framer-name="Desktop"][data-border=true]:after{border-right-width:1px!important}}</style>
 </head>
 <body>
 	
